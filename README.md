@@ -33,4 +33,5 @@ __Visual representation :__
 
 <p align = "center">
 Graphic representation in Grafana
+<img alt="graphic representation" src="https://user-images.githubusercontent.com/70654891/109171227-dbf9cd80-7781-11eb-998c-e950063ff5f5.JPG" width="75%"/>
 </p>
