@@ -6,10 +6,10 @@ Datas which are taken :
 - percentage of the used cpu
 - percentage of the used memory
 - informations about the network that the computer used
-- percentage of the space the disks uses (C and D)
+- percentage of the space the disks use (C and D)
 
 ## Features
-__Text file:__ write all the informations taken into a texte file (info.txt). If the file doesn't exist, it's created automatically
+__Text file:__ write all the informations taken into a text file (info.txt). If the file doesn't exist, it's created automatically
 
 __Database:__ write all the informations into a database
 
@@ -23,7 +23,7 @@ Install psutil, MariaDB, MySQL Connector (if needed)
 
 1. Download the project
 2. Open ``supervision.py`` in an IDE (PyCharm for example)
-3. Create a database with create_bdd.sql
+3. Create a database with ``create_bdd.sql``
 
 __Visual representation :__
 
